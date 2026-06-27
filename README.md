@@ -1,4 +1,4 @@
-# e_api_get_news_body_tel.py
+# e_api_get_news_body_pubkey.py
 ニュース本文取得（ニュースIDを指定）　公開鍵認証
 
 -----------------------------------------
